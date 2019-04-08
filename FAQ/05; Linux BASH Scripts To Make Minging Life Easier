@@ -1,6 +1,3 @@
-FAQ5:
-(submitted by @J Oliver Westbrook):
-
 LINUX BASH SCRIPTS TO MAKE MINING LIFE EASIER
 
 Following are some bash scripts I wrote to help make managing your Linux-based CLI miner a bit easier.  Prereq is to install mailutils (postfix) and configure with your server's FQDN and set inet_interfaces=localhost in the postfix/main.cf file.
@@ -47,3 +44,5 @@ In the following, the */5 is every 5 min, the 0 is on the hour every hour, the 0
 !!For any emails sent (for backup of dat file for example) make sure to enforce TLS security in postfix by adding the following line to your /etc/postfix/main.cf
 
 smtp_tls_security_level=encrypt
+
+(submitted by @J Oliver Westbrook):
