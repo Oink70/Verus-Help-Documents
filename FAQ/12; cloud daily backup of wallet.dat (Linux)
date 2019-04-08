@@ -1,8 +1,6 @@
-FAQ 12:
-(submitted by @TexWiller)
+Question: How to make a cloud daily backup of wallet.dat (Linux)
 
- How to make a cloud daily backup of wallet.dat
-
+Answer:
 Note: I use Google Cloud for my staking wallet and backups but the script works regardless of what you use; if you have timelocked coins, you will have to keep your wallet.dat file secure for a long, long time --> it's crucial to maintain secure the staking instance as well as the storage.
 
 If you use GCloud:
@@ -44,3 +42,5 @@ rm $DEST_FOLDER$DEST_FILE
 
 # Keep only last 6 days - BE SURE to fully understand how it works, as every "rm" command!
 find $DEST_FOLDER/wallet* -type f -mtime +6 -exec rm {} ;
+
+(submitted by @TexWiller)
