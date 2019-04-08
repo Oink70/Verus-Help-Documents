@@ -1,21 +1,22 @@
-FAQ 18:
-(submitted by @karero):
+﻿Question: How do I install the Linux CLI (command line interface) on a brand new (hosted) system?
 
-How do I install the Linux CLI (command line interface) on a brand new (hosted) system?
-First make sure your system is up to date:
+Answer:
+1) First make sure your system is up to date:
 sudo apt-get update && apt-get upgrade -y
 
-I suggest not to use the root account. I you have not yet done, set up a new user
+2) I suggest not to use the root account. I you have not yet done, set up a new user
 sudo adduser newusername
 sudo usermod -aG sudo newusername
-Switch to new username
+
+3) Switch to new username
 su -  newusername
-Test the your new user actually has root (SuDo) access, e.g.:
+
+4) Test the your new user actually has root (SuDo) access, e.g.:
 sudo ls -la /root
 You should get some lines like this:
 drwx------  6 root root 4096 Jul  3 15:56
 
-Install a browser
+5) Install a browser
 sudo apt-get install links2 -y
 Launch the browser and load veruscoin.io:
 links2 veruscoin.io
@@ -50,3 +51,5 @@ And set to
 PermitRootLogin no
 Apply no settings:
 sudo systemctl restart sshd
+
+(submitted by @karero)
