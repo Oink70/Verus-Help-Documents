@@ -1,0 +1,14 @@
+FAQ 8:
+(submitted by @keda666)
+
+Block Reward
+1 week smooth linear ramp from 0 to 384, then halving every month (43,200 blocks)
+1st week:  Block 1 -> 10080 = 1,935,360 VRSC
+1st month: Block 10080 -> 53280 = 384 VRSC = 16,588,800 VRSC
+2nd month: Block 53280 -> 96480 = 192 VRSC = 8,294,400 VRSC
+3rd month: Block 96480 -> 139680 = 96 VRSC = 4,147,200 VRSC
+4th month: Block 139680 -> 182880 = 48 VRSC = 2,073,600 VRSC
+5th month: Block 182880 -> 226080 = 24 VRSC = 1,036,800 VRSC
+Block 226080 onward for another 2 years = 24 VRSC
+
+All rewards equal or over 192 VRSC are time locked to mature at a random block between 129,600 and 1,181,520(edited)

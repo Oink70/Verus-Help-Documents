@@ -1,0 +1,6 @@
+FAQ 17:
+(submitted by @karero)
+
+Q: How can I check my immature balance in the Graphic User Interface (GUI version)?
+
+In the Agama wallet click on the hamburger menu (the three stripes) on the top right > click on Settings > click on the last item </> CLI > > Select VRSC as coin > Type the following command: getwalletinfo > click "Execute" > scroll down and find "immature_balance":  which will give you the amount of time-locked coins in your wallet.

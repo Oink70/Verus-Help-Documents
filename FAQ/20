@@ -1,0 +1,10 @@
+FAQ 20:
+(submitted by @jimboscott):
+
+Q. What should I do if I end up on my own fork because of a network issue or having an old version of the wallet?  For Windows GUI or CLI users.
+1.)  Stop the wallet/mining process  by cleanly shutting down the program.
+2.)  Make a backup of your wallet.dat file found in ...users/[your account]/AppData/roaming/Komodo/VRSC - Remember, this folder is a hidden folder and you must have your viewing preferences set to show hidden files and folders.
+3.)  After making your backup of the wallet.dat file, delete everything other than the wallet.dat file from the ...users/[your account]/AppData/roaming/Komodo/VRSC folder.  Leave the wallet.dat file in place.  You backed this file up only as a precaution.
+4.)  Download and extract the contents of either the 0.3.12a or later GUI or CLI wallet/miner.
+5.)  Run the CLI or GUI version and let it resync with the proper chain.  If it hangs up on syncing, quit the wallet cleanly and start it up again.
+6.)  Do not be dismayed if it seems that your mining rewards suddenly seem to come to a halt.  Remember, when you mine to the wrong chain rewards can come in very quickly, but they are worth nothing.
