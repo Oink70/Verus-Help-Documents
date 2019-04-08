@@ -1,8 +1,6 @@
-FAQ 21:
+Question: I followed the procedure in FAQ 19 and am still having problems with my wallet.
 
-Q. I followed the procedure in FAQ 20 and am still having problems with my wallet.
-
-To completely reset your wallet in the event of a fork, particularly if you've already followed the FAQ 20 procedure, follow the steps below.
+To completely reset your wallet in the event of a fork, particularly if you've already followed the FAQ 19 procedure, follow the steps below.
 
 1. Open your VRSC.conf file for editing.
     On windows this is located at Users<username>\AppData\Roaming\Komodo\VRSC\VRSC.conf
@@ -32,9 +30,6 @@ To completely reset your wallet in the event of a fork, particularly if you've a
 The exported wallet should be a file called mywalletexport in the location you set for exportdir in VRSC.conf. Keep this file secure, it has your plaintext private keys. Verify that the file is there and isn't empty.
 
 7. Stop Verus again by closing Agama or running ./verus stop for the linux CLI or verus.bat stop for the windows CLI.
-
-(continued in next comment)
-(continued from above)
 
 8. Making ABSOLUTELY SURE you have both the mywalletexport file and your wallet.dat backup in a safe place, delete your komodo/VRSC directory and everything in it (you can optionally leave your VRSC.conf file, but everything else there should be deleted.
 
