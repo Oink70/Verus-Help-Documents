@@ -1,7 +1,6 @@
-FAQ 10:
-(submitted by @keda666)
+Question: Where can I find my wallet.dat for backup?
 
-Where can I find my wallet.dat for backup?
+Anser:
 
 Linux:
 ~/.komodo/VRSC/wallet.dat
@@ -11,3 +10,5 @@ Windows:
 
 Mac:
 ~/Library/Application Support/Komodo/VRSC/wallet.dat(edited)
+
+(submitted by @keda666)
