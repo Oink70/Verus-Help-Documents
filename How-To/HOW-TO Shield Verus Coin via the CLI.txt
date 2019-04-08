@@ -1,7 +1,5 @@
-FAQ 13:
-(submitted by @dukeleto)
+HOW-TO Shielding Verus Coin via the CLI:
 
-Shielding Verus Coin via the CLI:
 You must first "shield coins" (send from a transparent Raddr to a shielded zaddr) to be able to use them in staking, when they first unlock.
 This is part of the Zcash protocol itself. The commands below assume you are in the Verus source code directory
 
@@ -28,3 +26,5 @@ To send from a certain zaddr to a transparent address, use z_sendmany. The follo
 
 TADDR=Ryouraddresss ./fiat/verus z_sendmany zcZpfuzzJqmNJ3fUJekvbnyuxuJe9eAURAHrMCvN2Nr7VuWjakb1LEw6j2etPcCnr45BRot7MaMbipuS5da162BfuUkFGxx "[{"address":"$TADDR","amount":10}]"
 I have been developing it on this gist: https://gist.github.com/leto/e5ab28c5c5f85031b8b0f7b6bf7cf430
+
+(submitted by @dukeleto)
