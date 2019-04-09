@@ -1,4 +1,10 @@
 # Verus Help Documents
+
+## Information:
+Veruscoin Home Page: https://veruscoin.io
+Verus Wallet installation guide: https://medium.com/veruscoin/how-to-update-veruscoin-graphical-gui-wallet-to-0-4-0a-for-linux-686fc7a5b6e7
+Verus Beginners Mining guide: https://medium.com/veruscoin/how-to-start-cpu-mining-verus-coin-vrsc-from-your-laptop-in-under-5-minutes-f69c9aae340e
+Verus Beginners Staking guide: https://medium.com/veruscoin/how-to-earn-vrsc-solo-mining-with-your-cpu-and-staking-mined-coins-aa27da76882c
 Veruscoin profitability Calculator: http://direpool.com/veruscoin/index.php
 
 ## Wallet (Verus Enhanced Agama):
