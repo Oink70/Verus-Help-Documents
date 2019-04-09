@@ -3,10 +3,10 @@
 Answer:
 You can check this in the VerusExplorer https://explorer.veruscoin.io/
 CLI:
-1) Check last 10 transactions in the verus-cli folder. Enter: "./verus listtransactions".
+1) Check last 10 transactions in the </>CLI. Use `listtransactions`.
 2) Copy the blockhash of the received award
 3) Add it at the end of https://explorer.veruscoin.io/api/getblock?
-(like this this: links2 https://explorer.veruscoin.io/api/getblock?hash=9e6fa91356211a554c580c90ec9c2067dd420ff74c7d33481775793f7b0e7f03 – so this one is minted....)
+(like this: links2 https://explorer.veruscoin.io/api/getblock?hash=9e6fa91356211a554c580c90ec9c2067dd420ff74c7d33481775793f7b0e7f03 – so this one is minted....)
 
 GUI:
 In the GUI you can also click yourself thru to that information.

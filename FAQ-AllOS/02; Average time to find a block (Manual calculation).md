@@ -4,8 +4,8 @@ Answer:
 average_time_to_find_one_block = ( NetworkHashrate / LocalHashrate ) * BlockTime
 
 One block = 24 coins (as now)
-NetworkHashrate = retrieved by getmininginfo command
-LocalHashrate = retrieved by getmininginfo command
+NetworkHashrate = retrieved by `getmininginfo` command from </>CLI
+LocalHashrate = retrieved by `getmininginfo` command
 BlockTime = 60 seconds (average)
 
 Real example with - 24 threads Intel Skylake 2.0Ghz -

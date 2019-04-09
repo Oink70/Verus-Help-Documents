@@ -9,7 +9,7 @@ If you use GCloud:
 - mount the bucket on your local machine (syntax is: gcsfuse <bucket_name> <local folder>; ie gcsfuse bucket_verus /home/user/backup)
 
 The script can be crontab scheduled to run daily or you can run it manually; if you schedule it, you have to hardcode the encryption passphrase; otherwise you can input it manually each time. You will have to install gnupg2 to encrypt (sudo apt-get install gnupg2 gnupg-agent). As always --> be sure to fully understand what the script does and why! I left some echos to demonstration/test purposes, you can sefely remove all of them.
-
+```
 #!/bin/bash
 
 # Customize the SOURCE and the DEST folders
@@ -42,5 +42,5 @@ rm $DEST_FOLDER$DEST_FILE
 
 # Keep only last 6 days - BE SURE to fully understand how it works, as every "rm" command!
 find $DEST_FOLDER/wallet* -type f -mtime +6 -exec rm {} ;
-
+```
 (submitted by @TexWiller)
