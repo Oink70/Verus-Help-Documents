@@ -11,6 +11,6 @@ https://zergpool.com/
 http://verus.bcmonster.com/
 https://vrsc.ukminer.io/
 https://vrsc.mcmpool.eu/
-
+https://vrsc.kiramine.com/
 
 Payouts from mining pools do not need to be shielded first. The mining pool has allready taken care of that.
