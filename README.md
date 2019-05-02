@@ -36,6 +36,9 @@ Cuda enabled Miner (Nvidia):			https://github.com/monkins1010/ccminer/releases/t
 
 OpenCL enabled miner (AMD):			https://github.com/monkins1010/AMDVerusCoin2.0
 
+Linux Docker nheqminer:				https://hub.docker.com/r/crupti/verushash-nheqminer-cpu/
+
+
 ## VRSC value & Exchanges:
 Verus Price API:	https://veruspay.io/api/
 
