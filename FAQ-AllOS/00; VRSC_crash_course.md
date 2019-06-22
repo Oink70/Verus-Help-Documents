@@ -47,7 +47,7 @@ Mining pools:
 
 Staking pools:
 <http://www.ginasismining.com> (Check their discord for details)
-<https://www.aacoin.com/#/trade?symbol=VRSC_BTC> (Technically not a pool, but it stakes your Verus on the exchange)
+<https://www.aacoin.com/#/trade?symbol=VRSC_BTC> (Technically not a pool, but it stakes your VRSC on the exchange)
 
 Exchanges:
 <https://app.stex.com/de/trade/pair/BTC/VRSC/1D>  
@@ -56,20 +56,26 @@ Exchanges:
 <https://wallet.crypto-bridge.org/market/BRIDGE.VRSC_BRIDGE.BTC>
 <https://zyrex.io/markets/vrscbtc>
 <https://graviex.net/markets/vrscbtc>
+<https://zaddex.io/t/vrsc-btc>
+
+Automated Escrow OTC trading:
+<https://app.barterlly.io>
 
 Also check out the Guide on how to mine in under 5 minutes: <https://medium.com/veruscoin/how-to-start-cpu-mining-verus-coin-vrsc-from-your-laptop-in-under-5-minutes-f69c9aae340e>
 
 Wallets:
-Verus Agama GUI wallet is a forked Agama Desktop App for multiple coins <https://github.com/VerusCoin/Agama> (for Win, Linux and Mac);
+Verus Agama GUI wallet is a forked Agama Desktop App for multiple coins <https://github.com/VerusCoin/Agama/releases> (for Win, Linux and Mac);
 the CLI wallets can be found here: <https://github.com/VerusCoin/VerusCoin/releases/>
 
 There's also a testnet wallet for coming PBaaS:
-GUI: <https://github.com/VerusCoin/Agama/releases/tag/v0.6.0.7-PBaaS-Cross-chain-Technology-Preview>
-CLI: <https://github.com/VerusCoin/VerusCoin/releases/tag/v0.6.0.7-PBaaS-Cross-chain-Technology-Preview>
+GUI: <https://github.com/VerusCoin/Agama/releases/tag/v0.6.0.13-PBaaS-Cross-chain-Technology-Preview>
+CLI: <https://github.com/VerusCoin/VerusCoin/releases/tag/v0.6.0.12-PBaaS-Cross-chain-Technology-Preview>
 
-A beta version of the mobile wallet can be found here: <https://github.com/VerusCoin/Verus-Mobile/releases/tag/v0.1.6-beta>
+A beta version of the Android mobile wallet can be found here: <https://github.com/VerusCoin/Verus-Mobile/releases/tag/v0.1.6-beta>
+A beta version of the iOS mobile wallet can be accessed via this Apple TestFlight invite <https://testflight.apple.com/join/ZS43lYcw>
+
 
 If you need a bootstrap, you can find it here: <https://bootstrap.0x03.services/veruscoin/VRSC.html>
-(a guide how to apply is pinned in #community-support channel in Discord: <https://discord.gg/VRKMP2S>)
+(a guide how to apply is pinned in #community-support channel in Discord: <https://discord.gg/VRKMP2S> or in the HOW-TO & FAQ section of our website https://veruscoin.io/downloads/how-to/how-to_bootstrap.html)
 
 And finally, for those interested in VerusPay, a guide can be found here: <https://veruspay.io/setup/>
