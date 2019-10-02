@@ -1,4 +1,8 @@
 # Verus Help Documents
+**This information is outdated and left online for reference**
+**check https://veruscoin.io/service.html for up-to-date information**
+
+
 
 ## Information:
 Veruscoin Home Page: https://veruscoin.io
@@ -25,7 +29,7 @@ Linux GUI:	https://github.com/VerusCoin/Agama/releases/download/v0.5.6/Agama-lin
 Linux CLI:	https://github.com/VerusCoin/VerusCoin/releases/download/v0.5.6/Verus-CLI-Linux-v0.5.6.tar.gz
 
 ## Mobile Wallets:
-Mobile wallets are still in Beta for Android and IOS. As soon as they are released to the public, the links will be published here. 
+Mobile wallets are still in Beta for Android and IOS. As soon as they are released to the public, the links will be published here.
 
 ## Miners:
 CPU enabled miner (Old & new CPUs, All OS):	https://github.com/VerusCoin/nheqminer/releases/tag/0.7.2
